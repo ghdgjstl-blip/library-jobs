@@ -1,0 +1,22 @@
+[
+  {"name": "배재대학교",
+   "urls": ["https://invite.pcu.ac.kr/JB01.do?method=jb0101"],
+   "title_from_row": true},
+
+  {"name": "목원대학교",
+   "urls": [
+     "https://www.mokwon.ac.kr/kr/html/sub06/0601.html?mode=L&GotoPage=1",
+     "https://www.mokwon.ac.kr/kr/html/sub06/0601.html?mode=L&GotoPage=2",
+     "https://www.mokwon.ac.kr/kr/html/sub06/0604.html?mode=L&GotoPage=1"],
+   "check_detail": true},
+
+  {"name": "KAIST",
+   "urls": [
+     "https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=L&GotoPage=1",
+     "https://www.kaist.ac.kr/kr/html/footer/0814.html?mode=L&GotoPage=2"],
+   "check_detail": true},
+
+  {"name": "한남대학교", "urls": []},
+  {"name": "우송대학교", "urls": []},
+  {"name": "충남대학교", "urls": []}
+]
