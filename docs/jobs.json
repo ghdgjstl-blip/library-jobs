@@ -1,7 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-11-18 09:50 KST",
+  "updated": "2026-11-18 18:50 KST",
   "errors": [
+    "목원대학교: HTTPSConnectionPool(host='www.mokwon.ac.kr', port=443): Max retries exceeded with url: /kr/html/sub06/0601.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mokwon.ac.kr', port=443) at 0x77b27fe80860>, 'Connection to www.mokwon.ac.kr timed out. (connect timeout=20)'))",
     "한남대학교: URL 미설정",
     "우송대학교: URL 미설정",
     "충남대학교: URL 미설정"
