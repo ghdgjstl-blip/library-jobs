@@ -1,7 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-11-19 09:51 KST",
+  "updated": "2026-11-19 18:53 KST",
   "errors": [
+    "KAIST: HTTPSConnectionPool(host='www.kaist.ac.kr', port=443): Max retries exceeded with url: /kr/html/footer/0814.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kaist.ac.kr', port=443) at 0x7ba926139be0>, 'Connection to www.kaist.ac.kr timed out. (connect timeout=20)'))",
     "한남대학교: URL 미설정",
     "우송대학교: URL 미설정",
     "충남대학교: URL 미설정"
@@ -14,6 +15,14 @@
       "date": "2026-10-15",
       "reason": "목록",
       "first_seen": "2026-11-15"
+    },
+    {
+      "school": "목원대학교",
+      "title": "2026학년도 목원대학교 신규직원 채용 공고(2027년 1월 1일자)",
+      "url": "https://www.mokwon.ac.kr/kr/html/sub06/0601.html?mode=V&no=9798a1b321179a0d4069e6a19d3d67ea&GotoPage=2",
+      "date": "2026-10-13",
+      "reason": "본문",
+      "first_seen": "2026-11-19"
     },
     {
       "school": "목원대학교",
