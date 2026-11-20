@@ -1,8 +1,8 @@
 {
   "v": 2,
-  "updated": "2026-11-19 18:53 KST",
+  "updated": "2026-11-20 09:43 KST",
   "errors": [
-    "KAIST: HTTPSConnectionPool(host='www.kaist.ac.kr', port=443): Max retries exceeded with url: /kr/html/footer/0814.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.kaist.ac.kr', port=443) at 0x7ba926139be0>, 'Connection to www.kaist.ac.kr timed out. (connect timeout=20)'))",
+    "목원대학교: HTTPSConnectionPool(host='www.mokwon.ac.kr', port=443): Max retries exceeded with url: /kr/html/sub06/0601.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mokwon.ac.kr', port=443) at 0x75b950630710>, 'Connection to www.mokwon.ac.kr timed out. (connect timeout=20)'))",
     "한남대학교: URL 미설정",
     "우송대학교: URL 미설정",
     "충남대학교: URL 미설정"
