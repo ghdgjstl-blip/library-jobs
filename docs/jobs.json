@@ -1,8 +1,7 @@
 {
   "v": 2,
-  "updated": "2026-11-21 09:46 KST",
+  "updated": "2026-11-21 18:39 KST",
   "errors": [
-    "KAIST: HTTPSConnectionPool(host='www.kaist.ac.kr', port=443): Max retries exceeded with url: /kr/html/footer/0814.html?mode=L&GotoPage=2 (Caused by NewConnectionError(\"HTTPSConnection(host='www.kaist.ac.kr', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
     "한남대학교: URL 미설정",
     "우송대학교: URL 미설정",
     "충남대학교: URL 미설정"
