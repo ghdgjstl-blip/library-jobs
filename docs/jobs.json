@@ -1,13 +1,21 @@
 {
   "v": 2,
-  "updated": "2026-11-27 18:56 KST",
+  "updated": "2026-11-28 09:50 KST",
   "errors": [
-    "목원대학교: HTTPSConnectionPool(host='www.mokwon.ac.kr', port=443): Max retries exceeded with url: /kr/html/sub06/0601.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mokwon.ac.kr', port=443) at 0x7d13246f9c70>, 'Connection to www.mokwon.ac.kr timed out. (connect timeout=20)'))",
+    "목원대학교: HTTPSConnectionPool(host='www.mokwon.ac.kr', port=443): Max retries exceeded with url: /kr/html/sub06/0601.html?mode=L&GotoPage=1 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.mokwon.ac.kr', port=443) at 0x77a0da5a9d30>, 'Connection to www.mokwon.ac.kr timed out. (connect timeout=20)'))",
     "한남대학교: URL 미설정",
     "우송대학교: URL 미설정",
     "충남대학교: URL 미설정"
   ],
   "jobs": [
+    {
+      "school": "배재대학교",
+      "title": "계약직원 · 학술정보지원팀 · 학술정보지원팀 · D-6 2026-11-26 10:00 ~\r2026-12-04 16:00 · 서류접수중",
+      "url": "https://invite.pcu.ac.kr/JB01.do?method=jb0101",
+      "date": "2026-11-26",
+      "reason": "목록",
+      "first_seen": "2026-11-28"
+    },
     {
       "school": "배재대학교",
       "title": "계약직원 · 학술정보지원팀 · 학술정보지원팀 · D-7 2026-11-26 10:00 ~\r2026-12-04 16:00 · 서류접수중",
